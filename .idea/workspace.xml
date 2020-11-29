@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4389b1ac-3169-4a4e-9159-fc882ebb54ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/controllers/statewise_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/global/api_configuration.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/global/http_web_call.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/statewise.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/service/statewise_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/values/AppConstant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/views/india_statewise.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/views/splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="35c3722f0204" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jVN0wYrgrnAoAqYxdzP3GwmnUC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Rohit\flutter\otail\otail\lib\product.dart" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Rohit\flutter\otail\otail\assets\images" />
+      <recent name="E:\Rohit\flutter\otail\otail\lib\screens" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4389b1ac-3169-4a4e-9159-fc882ebb54ee" name="Default Changelist" comment="" />
+      <created>1603885079401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603885079401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606638006451">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="524" y="329" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1606638006451" />
+    <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1606638018107">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.826@0.0.1536.826" timestamp="1606638018107" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606638194514">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.826@0.0.1536.826" timestamp="1606638194514" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1603887568091">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1603887568091" />
+    <state width="1491" height="332" key="GridCell.Tab.0.bottom" timestamp="1606644335536">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="332" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1606644335536" />
+    <state width="1491" height="332" key="GridCell.Tab.0.center" timestamp="1606644335535">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="332" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1606644335535" />
+    <state width="1491" height="332" key="GridCell.Tab.0.left" timestamp="1606644335535">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="332" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1606644335535" />
+    <state width="1491" height="332" key="GridCell.Tab.0.right" timestamp="1606644335535">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1491" height="332" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1606644335535" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1605354254880">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1605354254880" />
+    <state x="93" y="93" width="1350" height="640" key="dock-window-1" timestamp="1605352304338">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="93" y="93" width="1350" height="640" key="dock-window-1/0.0.1536.826@0.0.1536.826" timestamp="1605352304338" />
+    <state x="93" y="93" width="1350" height="640" key="dock-window-2" timestamp="1605352304338">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="93" y="93" width="1350" height="640" key="dock-window-2/0.0.1536.826@0.0.1536.826" timestamp="1605352304338" />
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1606634224651">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1606634224651" />
+  </component>
+</project>
